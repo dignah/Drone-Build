@@ -3,8 +3,8 @@
 In this guide, we will document the equipment necessary to build a trainer drone using a KK flight controller. We will also provide the steps necessary to assembling the drone.
 
 ### **Equipment Required**
-* Flight Controller - kk 2.1.5
-* 4 Electronic Speed Controller - 30A
+* Flight Controller [Jumper](https://)  - kk 2.1.5
+* [4 Electronic Speed Controller]() - 30A
 * 4 Brushless Motors - 2212-920kv
 * 4 Propellers - 2ccw,2cw
 * Radio receiver - Frsky X8R
